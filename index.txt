@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 我是main,请不要随意修改文件！-》guangchundi
+=======
+我是main
+>>>>>>> parent of af7f4bd... guangchundi
